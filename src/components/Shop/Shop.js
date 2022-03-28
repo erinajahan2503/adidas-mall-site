@@ -34,7 +34,7 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 <p>Selected Products:{cart.length}</p>
-                <button>Choose 1 For Me:{ };
+                <button >Choose 1 For Me:
                 </button>
                 <button onClick={() => setCart([])} >Choose again</button>
 
